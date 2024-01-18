@@ -1,0 +1,21 @@
+{
+  "product": {
+    "category": "Men",
+    "subCategory": "Tops",
+    "couponCode": "H20",
+    "selectByPrice": "Price",
+    "base": "Hero Hoodie",
+    "simpleProductUrl": "/hero-hoodie.html",
+    "configurableProductUrl": "/hoodies-and-sweatshirts-men.html",
+    "categoryUrl": "/men/tops-men.html",
+    "configurableProductName": "Hero Hoodie",
+    "outOfStockProductSku": "MH07",
+    "outOfStockProductUrl": "dash-digital-watch.html",
+    "outOfStockProductName": "Dash Digital Watch",
+    "productAttributeSelector": ".swatch-attribute-options",
+    "currency": "$",
+    "priceRegexp": "$",
+    "simpleSearchTerm": "Hero",
+    "couponProductUrl": "/hoodies-and-sweatshirts-men.html"
+    }
+}

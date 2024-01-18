@@ -1,0 +1,61 @@
+{
+  "validUser": {
+    "firstName": "kelompok6",
+    "lastName": "Belajar51",
+    "email": "kelompok6_51@test.com",
+    "password": "test@1234",
+    "password-confirmation": "test@1234"
+    },
+    "invalidUser1": {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example",
+      "password": "Jane@11",
+      "password-confirmation": "Jane@11"
+    },
+    "invalidUser2": {
+      "firstName": "user2",
+      "lastName": "user2",
+      "email": "user2@test.com",
+      "password": "zzzzzzzz",
+      "password-confirmation": "zzzzzzzz"
+    },
+    "invalidUser3": {
+      "firstName": "user3",
+      "lastName": "user3",
+      "email": "user3@test.com",
+      "password": "33333333",
+      "password-confirmation": "33333333"
+    },
+    "invalidUser4": {
+      "firstName": "user4",
+      "lastName": "user4",
+      "email": "user4@test.com",
+      "password": "@@@@@@@@",
+      "password-confirmation": "@@@@@@@@"
+    },
+    "invalidUser5": {
+    "firstName": "user5",
+    "lastName": "user5",
+    "email": "user5@test.com",
+    "password": "zz55zz55",
+    "password-confirmation":"zz55zz55"
+    },
+    "invalidUser6": {
+      "firstName": "user6",
+      "lastName": "user6",
+      "email": "user6@test.com",
+      "password": "zz66@@",
+      "password-confirmation":"zz@@"
+    },
+    "invalidUser7": {
+      "firstName": "user7",
+      "lastName": "user7",
+      "email": "user7@test.com",
+      "password": "66@@66@@",
+      "password-confirmation":"66@@66@@"    
+    }
+}
+
+
+  

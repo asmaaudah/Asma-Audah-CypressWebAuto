@@ -1,0 +1,11 @@
+{
+    "registerSuccess":"Thank you for registering with Main Website Store.",
+    "password1":"Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored.",
+    "password2":"Minimum of different classes of characters in password is 3. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",
+    "passwordConfirmError":"Please enter the same value again.",
+    "registerError1": "Invalid Form Key. Please refresh the page.",
+    "registerError2": "This is a required field.",
+    "Desc1":"Gray and black color blocking sets you apart as the Hero Hoodie keeps you warm on the bus, campus or cold mean streets. Slanted outsize front pockets keep your style real . . . convenient.",
+    "Desc2":"Fleece, Hemp, Polyester",
+    "Desc3":"Hero"  
+}

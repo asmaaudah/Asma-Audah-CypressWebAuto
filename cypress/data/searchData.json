@@ -1,0 +1,18 @@
+{
+  "Search1":{
+  "productCategory": "hoodie",
+  "singleProduct": "Didi",
+  "singleProductName": "Didi Sport Watch",
+  "noResults": "1234abcd",
+  "getHint": "didi",
+  "hintResult": "Didi"
+  },
+  "Search2":{
+    "productCategory": "t-shirt",
+    "singleProduct": "Didi",
+    "singleProductName": "Didi Sport Watch",
+    "noResults": "1234abcd",
+    "getHint": "didi",
+    "hintResult": "Didi"
+  }
+}
