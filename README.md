@@ -3,13 +3,13 @@
 - clone repository ke lokal komputer
 
 ```
-git clone https://github.com/asmaaudah/Asma Audah-CypressWebAuto.git
+git clone https://github.com/asmaaudah/Asma-Audah-CypressWebAuto.git
 ```
 
 - masuk ke dalam folder repository yang telah di clone
 
 ```
-cd Asma Audah-CypressWebAuto
+cd Asma-Audah-CypressWebAuto
 ```
 
 - selanjutnya install dependencies
